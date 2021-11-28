@@ -13,8 +13,10 @@ public class TurkeyDemo {
 		System.out.println("Come back to school");
 	
 	}
-
-	
+		
+	int a = 10;
+	int b = 5;
+	//hello
 	public static void addNum( int a ,  int b) {
 		System.out.println(a+b);
 		
