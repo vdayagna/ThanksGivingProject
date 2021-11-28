@@ -11,7 +11,14 @@ public class TurkeyDemo {
 		System.out.println("Mayflower...");
 		
 		System.out.println("Come back to school");
-
+	
 	}
+
+	
+	public static void addNum( int a ,  int b) {
+		System.out.println(a+b);
+		
+	}
+
 
 }
